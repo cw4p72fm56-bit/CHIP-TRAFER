@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "6ba8x1HjoSK7EwJshdjbC"
+uri = "file://generated-artifacts/project-files.zip"
+type = "unspecified"
+title = "Project files ZIP"
+description = "Archive of all 114 tracked files available in this project. It excludes dependencies, build outputs, caches, and Git history. CHIP TRADE source was not present in the project files inspected."
+logical_id = "84066d4f-ac4b-4752-9ad5-27cc38bd916e"
+content_hash = "sha256:46b3f1d81db7878175ad2b113b673c402c058584147ebdc0e5dcd96d9318004f"
+size = 142361
+mtime_ms = 1793637239269
+storage_uri = "gcs://replit-rams-assets-archer/rams/assets/repl:f8671a83-d764-48fe-8716-002893375b05/84066d4f-ac4b-4752-9ad5-27cc38bd916e/ab9a51b1-bef3-4ab5-94c6-bb2786adf382"
+storage_version_token = "1793637245850979"
+content_type = "application/octet-stream"
